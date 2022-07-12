@@ -1,4 +1,4 @@
-<img src=https://user-images.githubusercontent.com/42708326/178482131-b6f2d134-6f22-4d39-b2bf-79f3669269f0.png height=500 width=1000>
+<img src=https://user-images.githubusercontent.com/42708326/178482131-b6f2d134-6f22-4d39-b2bf-79f3669269f0.png height=530 width=1000>
 
 
 [![](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/shadowctrl/Duckhunter-Hid-Scripts/blob/main/LICENSE)
