@@ -1,10 +1,12 @@
-<img src=https://user-images.githubusercontent.com/42708326/178482131-b6f2d134-6f22-4d39-b2bf-79f3669269f0.png height=530 width=1000>
+<img src=https://user-images.githubusercontent.com/42708326/178482131-b6f2d134-6f22-4d39-b2bf-79f3669269f0.png height=550 width=1000>
 
 
 [![](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/shadowctrl/Duckhunter-Hid-Scripts/blob/main/LICENSE)
 [![](https://img.shields.io/badge/Release-Initial-success)](https://github.com/shadowctrl/Duckhunter-Hid-Scripts/tree/master)
-[![](https://img.shields.io/badge/support-discord-red)](https://discord.gg/8Vcy5B2KWR)
 [![](https://img.shields.io/badge/Test%20Env-Win11-9cf)]()
+[![](https://img.shields.io/badge/Report-Issues-critical)](https://github.com/shadowctrl/Duckhunter-Hid-Scripts/issues)
+[![](https://img.shields.io/badge/contact-discord-blueviolet)](https://discord.gg/8Vcy5B2KWR)
+
 
 ***```Specially Made For Kali Nethunter - Duckhunter-Hid Attacks```***
 # Instructions
